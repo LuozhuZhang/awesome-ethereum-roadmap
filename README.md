@@ -1,7 +1,7 @@
 # awesome-ethereum2.0
 
-# Rollup
+## Rollup
 
-# Sharding
+## Sharding
 
-# Beacon
+## Beacon
