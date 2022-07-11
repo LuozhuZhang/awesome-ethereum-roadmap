@@ -1,7 +1,9 @@
-# awesome-ethereum2.0
+# awesome-ethereum-roadmap
+
+## Old Roadmap
+
+## Beacon
 
 ## Rollup
 
 ## Sharding
-
-## Beacon
