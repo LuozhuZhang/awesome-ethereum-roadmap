@@ -1,6 +1,6 @@
 # awesome-ethereum-roadmap
 
-# Articles, Videos
+# Article - Video
 
 ## Old Roadmap
 
@@ -31,3 +31,9 @@
 * [Vitalik - tweet](https://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=RFnNCd5_M7ckxyfntI-Vqw)
 
 * [Vitalik explain roadmap](https://www.youtube.com/watch?v=b1m_PTVxD-s)
+
+# Resources - spec, libraries, tools
+
+## PoS, Beacon chain
+
+* [Consensus-Spec](https://github.com/ethereum/consensus-specs)
