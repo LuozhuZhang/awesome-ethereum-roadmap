@@ -1,6 +1,6 @@
 # Awesome Ethereum Roadmap [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications.
+Upgrading Ethereum to radical new heights.
 
 <div align="center">
   <a href="https://www.simonstalenhag.se/">
