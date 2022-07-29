@@ -26,9 +26,15 @@ Upgrading Ethereum to radical new heights.
 
 ## Old Roadmap
 
+* [Vitalik - tweet](https://twitter.com/VitalikButerin/status/1240365047421054976?s=20&t=RkKy9MeYhRz9QFXAj27amQ)
+
 * [The Roadmap to Serenity](https://consensys.net/blog/blockchain-explained/the-roadmap-to-serenity-2/)
 
-* [Vitalik - tweet](https://twitter.com/VitalikButerin/status/1240365047421054976?s=20&t=RkKy9MeYhRz9QFXAj27amQ)
+## Roadmap
+
+* [Vitalik - tweet](https://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=RFnNCd5_M7ckxyfntI-Vqw)
+
+* [Vitalik explain roadmap](https://www.youtube.com/watch?v=b1m_PTVxD-s)
 
 ## PoS, Beacon chain
 
@@ -47,12 +53,6 @@ Upgrading Ethereum to radical new heights.
 * [Rollup-centric ethereum with sharding or rollup-centric sharding?](https://ethereum-magicians.org/t/rollup-centric-ethereum-with-sharding-or-rollup-centric-sharding/7159)
 
 * [A step-by-step roadmap for scaling rollups with calldata expansion and sharding](https://notes.ethereum.org/@vbuterin/data_sharding_roadmap)
-
-## Roadmap
-
-* [Vitalik - tweet](https://twitter.com/VitalikButerin/status/1466411377107558402?s=20&t=RFnNCd5_M7ckxyfntI-Vqw)
-
-* [Vitalik explain roadmap](https://www.youtube.com/watch?v=b1m_PTVxD-s)
 
 # Resources - spec, libraries, tools
 
